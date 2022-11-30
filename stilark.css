@@ -54,3 +54,7 @@ button{
 #melding,h1{
     font-size: xx-large;
 }
+#neste{
+  position: absolute;
+  bottom: 0;
+}
